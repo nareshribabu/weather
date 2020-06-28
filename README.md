@@ -12,3 +12,10 @@ This app is also dark mode enabled: this app will change its appearence dependin
 # Demo:
 
 <a href="https://media.giphy.com/media/RLDqwo462qQn5DmTpy/giphy.gif"><img src="https://media.giphy.com/media/RLDqwo462qQn5DmTpy/giphy.gif" title="weather"/></a>
+
+# Dark Mode and Light Mode
+
+<a href="https://media.giphy.com/media/J5MbOtb58sl3uswS7u/giphy.gif"><img src="https://media.giphy.com/media/J5MbOtb58sl3uswS7u/giphy.gif" title="dark"/></a>
+
+# Note:
+The API key is removed from the file for privacy reasons.
